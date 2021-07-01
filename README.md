@@ -1,4 +1,4 @@
-<img src='https://i.pinimg.com/originals/85/56/2d/85562d79ff5cd98affde0e96f9c5b4b4.jpg' width='900' height='250'/>
+<img src='https://d28mt5n9lkji5m.cloudfront.net/i/V1a-4ZoosT.jpg' />
 # Hola, Mi nombre es Facundo ! 👋
 <!--
 **Facundo-Vaena/Facundo-Vaena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
