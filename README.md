@@ -1,6 +1,7 @@
 <img src='https://d28mt5n9lkji5m.cloudfront.net/i/V1a-4ZoosT.jpg' height='250' width=100%/>
 
 # Hola, Mi nombre es Facundo ! 👋
+### Fullstack developer en Javascript, con muchas ganas de crecer en el mundo IT !
 <!--
 **Facundo-Vaena/Facundo-Vaena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://th.bing.com/th/id/Rf59f0a27ba86025122b3ae5901a61c2c?rik=Ho1hj9vmK15%2bNQ&pid=ImgRaw)
