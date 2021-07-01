@@ -1,5 +1,5 @@
 # Hola 👋! Mi nombre es Facundo
-(https://th.bing.com/th/id/Rf59f0a27ba86025122b3ae5901a61c2c?rik=Ho1hj9vmK15%2bNQ&pid=ImgRaw)
+![](https://th.bing.com/th/id/Rf59f0a27ba86025122b3ae5901a61c2c?rik=Ho1hj9vmK15%2bNQ&pid=ImgRaw)
 <!--
 **Facundo-Vaena/Facundo-Vaena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
