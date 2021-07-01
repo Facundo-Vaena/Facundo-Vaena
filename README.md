@@ -1,4 +1,4 @@
-<img src='https://d28mt5n9lkji5m.cloudfront.net/i/V1a-4ZoosT.jpg' height='250' width='650'/>
+<img src='https://d28mt5n9lkji5m.cloudfront.net/i/V1a-4ZoosT.jpg' height='250' width='800'/>
 
 # Hola, Mi nombre es Facundo ! 👋
 <!--
