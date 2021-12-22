@@ -2,7 +2,7 @@
 <img src='https://d28mt5n9lkji5m.cloudfront.net/i/V1a-4ZoosT.jpg' height='250' width=100%/>
 
 # <P align=center>Hola, Mi nombre es Facundo ! 👋</p>
-### <p align=center>Fullstack developer en Javascript, con muchas ganas de crecer en el mundo IT !</p>
+### <p align=center>Fullstack developer en Javascript</p>
 ---
 ### <p align=center>Technical Skills</p>
 
