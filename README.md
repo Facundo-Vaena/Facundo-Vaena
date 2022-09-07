@@ -35,7 +35,7 @@
 ---
 ## <p align=center>Contact</p>
 <p align='center'>
-<a href='https://www.linkedin.com/in/facundo-vaena/'><img src='https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF' width='300px'/></a>
+<a href='https://www.linkedin.com/in/facundo-vaena/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF' width='300px'/></a>
 </p>
 <!--
 **Facundo-Vaena/Facundo-Vaena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
